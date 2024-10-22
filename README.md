@@ -1,1 +1,1 @@
-Data Stracture Homwwork!!
+Data Structure Homwwork!!
